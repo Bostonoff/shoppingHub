@@ -33,7 +33,6 @@ const Navbar = () => {
                   <i className = "fas fa-search"></i>
                 </button>
               </form>
-
               <div className = "navbar-btns">
                 <Link to = "/cart" className="add-to-cart-btn flex">
                   <span className = "btn-ico">
